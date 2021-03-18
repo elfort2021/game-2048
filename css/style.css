@@ -41,3 +41,11 @@
   font-style: normal;
   font-size: 30px; 
 }
+
+.instructions-container { 
+  display: flex; 
+  flex-wrap: wrap; 
+ 
+  justify-content: center;
+
+}
